@@ -6,6 +6,7 @@
 </template>
 
 <script>
+import * as Plotly from 'plotly.js';
 import HelloWorld from './components/HelloWorld.vue'
 
 export default {
